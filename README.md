@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>DaeHyunii 🚀</h2>
+  <h2>DaeHyunii✨</h2>
   <p>Hi! there👋🏼<br/>I will become a developer who studies steadily</p>
   <br/>
   <h3>🛠Teck Stack🛠</h3>
