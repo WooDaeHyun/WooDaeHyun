@@ -14,15 +14,15 @@
   <h3>🍳About Me🍳</h3>
   <table>
     <tr>
-      <td> 👀 Contact</td>
+      <td> Contact</td>
       <td><a href="po668312@naver.com">po668312@naver.com</a></td>
     </tr>
      <tr>
-      <td> 🤓 Dev Blog</td>
+      <td> Dev Blog</td>
       <td><a href="https://woodaelog.com/">https://woodaelog.com</a> (currently)</td>
     </tr>
      <tr>
-      <td> 😁 Dev Blog</td>
+      <td> Dev Blog</td>
       <td><a href="https://pinetree93.tistory.com/">https://pinetree93.tistory.com</a> (Previous)</td>
     </tr>
   </table>
