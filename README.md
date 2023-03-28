@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooDaeHyun&show_icons=true&theme=tokyonight)
+</div>
+<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooDaeHyun&layout=compact 스타일&theme=tokyonight)
+github-readme-stats.vercel.app/api/top-langs/?username={WooDaeHyun}&langs_count=8
