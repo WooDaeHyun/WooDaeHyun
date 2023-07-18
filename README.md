@@ -15,19 +15,19 @@
   <table>
     <tr>
       <td>My Portfolio page</td>
-      <td><a href="woodaefolio.com">https://woodaefolio.com</a></td>
+      <td><a href="https://woodaefolio.com">Woodaefolio</a></td>
+    </tr>
+     <tr>
+      <td> Dev Blog</td>
+      <td><a href="https://woodaelog.com/">Woodaelog</a></td>
+    </tr>
+     <tr>
+      <td> Dev Blog</td>
+      <td><a href="https://pinetree93.tistory.com/">Tistory</a></td>
     </tr>
     <tr>
       <td> Contact</td>
       <td><a href="po668312@naver.com">po668312@naver.com</a></td>
-    </tr>
-     <tr>
-      <td> Dev Blog</td>
-      <td><a href="https://woodaelog.com/">https://woodaelog.com</a> (currently)</td>
-    </tr>
-     <tr>
-      <td> Dev Blog</td>
-      <td><a href="https://pinetree93.tistory.com/">https://pinetree93.tistory.com</a> (Previous)</td>
     </tr>
   </table>
 </div>
