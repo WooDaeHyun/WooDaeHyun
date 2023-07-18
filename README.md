@@ -14,6 +14,10 @@
   <h3>🍳About Me🍳</h3>
   <table>
     <tr>
+      <td>My Portfolio page</td>
+      <td><a href="woodaefolio.com">https://woodaefolio.com</a></td>
+    </tr>
+    <tr>
       <td> Contact</td>
       <td><a href="po668312@naver.com">po668312@naver.com</a></td>
     </tr>
