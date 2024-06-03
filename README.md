@@ -38,6 +38,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooDaeHyun&layout=compact&theme=tokyonight" alt="mostUsedLanguage" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://astro.badg.es/contributor/WooDaeHyun/">
+  <img src="https://astro.badg.es/v2/contributor/WooDaeHyun.svg" alt="@WooDaeHyun Astro contributions" width="260" height="156">
+</a>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=WooDaeHyun&show_icons=true&theme=tokyonight" alt="WooDaeHyun's GitHub stats" /> -->
 </div>
+
 
